@@ -2,12 +2,12 @@ Prerequisites
 AWS account
 Source
 https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/EC2_GetStarted.html
-![alt text](Capture0.PNG)
+![alt text](./Images/Capture0.PNG)
 Step 1: **Launch an instance**
 1. Open the Amazon EC2 console
 2. You can use the selected Region, or optionally select a Region that is closer to you.
 3. From the EC2 console dashboard, choose Launch instance.
-![alt text](Capture1.PNG)
+![alt text](./Images/Capture1.PNG)
 4. Under Name and tags, for Name, enter a descriptive name for your instance.
 5. Under Application and OS Images, Choose Quick Start, and then choose the operating system (OS) for your instance.
 6. From Amazon Machine Image (AMI), select an AMI that is marked Free Tier eligible.
