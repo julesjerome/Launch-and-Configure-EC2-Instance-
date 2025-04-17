@@ -3,7 +3,8 @@ AWS account
 Source
 https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/EC2_GetStarted.html
 ![alt text](./Images/Capture0.PNG)
-Step 1: **Launch an instance**
+
+### **Step 1: Launch an Amazon EC2 Instance** 
 1. Open the Amazon EC2 console
 2. You can use the selected Region, or optionally select a Region that is closer to you.
 3. From the EC2 console dashboard, choose Launch instance.
@@ -26,7 +27,7 @@ Success!
 13. The initial instance state is pending. After the instance starts, its state changes to running.
 ![alt text](Capture7.PNG)
 
-Step 2: Connect to your instance
+### **Step 2: Connect to your instance**
 The procedure that you use depends on the operating system of the instance.
 ![alt text](Capture8.PNG)
 ![alt text](Capture9.PNG)
@@ -34,7 +35,7 @@ I will be connecting via the EC2 instance connect. For a more secure connection,
 ![alt text](Capture10.PNG)
 Success!
 
-Step 3: Clean up your instance
+### **Step 3: Clean up your instance**
 Select your created instance and right click.
 Choose Terminate instance
 ![alt text](Capture11.PNG)
